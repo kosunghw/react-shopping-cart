@@ -9,7 +9,7 @@ export default function Navbar() {
             <NavLink to={'/'}>Home</NavLink>
           </li>
           <li>
-            <NavLink to={'/shop'}>Shop</NavLink>
+            <NavLink to={'/products'}>Shop</NavLink>
           </li>
           <li>
             <NavLink to={'/cart'}>Cart</NavLink>
